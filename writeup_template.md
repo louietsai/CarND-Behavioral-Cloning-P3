@@ -91,8 +91,11 @@ To capture good driving behavior, I first recorded two laps on track one using c
 Then I repeated this process on track two in order to get more data points.
 
 To augment the data sat, I also flipped images and angles 
-After the collection process, I had X number of data points. I then preprocessed this data by ...
+After the collection process, I had X number of data points. I then preprocessed this data by P1.py for lane detection to get the below image
 
+![alt text][image2]
+
+however, I didn't apply this lane detection, and may try it later.
 
 I finally randomly shuffled the data set and put Y% of the data into a validation set. 
 
