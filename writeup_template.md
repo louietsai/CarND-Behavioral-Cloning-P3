@@ -93,7 +93,7 @@ Then I repeated this process on track two in order to get more data points.
 To augment the data sat, I also flipped images and angles 
 After the collection process, I had X number of data points. I then preprocessed this data by P1.py for lane detection to get the below image
 
-![alt text][image2]
+![alt text][image3]
 
 however, I didn't apply this lane detection, and may try it later.
 
