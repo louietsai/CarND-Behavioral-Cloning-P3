@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./examples/model.png "Model Visualization"
 [image2]: ./examples/2017_08_06_19_03_48_687.jpg "drive image"
-[image3]: ./examples/final_2017_08_06_19_03_48_687 "lane detection Image"
+[image3]: ./examples/final_2017_08_06_19_03_48_687.jpg "lane detection Image"
 [image4]: ./examples/placeholder_small.png "Recovery Image"
 [image5]: ./examples/placeholder_small.png "Recovery Image"
 [image6]: ./examples/placeholder_small.png "Normal Image"
