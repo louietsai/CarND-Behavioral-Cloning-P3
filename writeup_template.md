@@ -66,6 +66,7 @@ The model used an adam optimizer, so the learning rate was not tuned manually.
 ####4. Appropriate training data
 
 Training data was chosen to keep the vehicle driving on the road. I used a combination of center lane driving both in clockwise and counterwise.
+Moreover, I used generator to reduce the memory usage for storying the data. the training time may increase dramatically compared to loading all data in memory at once, but we will use less memory during the training. 
 
  
 
